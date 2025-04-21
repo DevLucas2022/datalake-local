@@ -1,0 +1,9 @@
+# Ignora todo o conteúdo da pasta minio-data dentro de poc
+poc/minio-data/
+
+# Ignora a pasta spark inteira
+spark/
+
+# Ignora a pasta lucas inteira
+lucas/
+
