@@ -113,5 +113,3 @@ Lembre-se: Esse projeto é feito apenas para estudos, não é um repositório of
 ## 📜 Créditos e Referências
 - [Artigo do David Zbeda](https://david-dudu-zbeda.medium.com/setting-up-trino-with-hive-to-query-delta-lake-data-on-minio-a-scalable-big-data-solution-a7e2392e04f4)
 - [Documentações oficiais do Trino, Hive, Delta e MinIO]
-
-Armazene esse readme pra mim
